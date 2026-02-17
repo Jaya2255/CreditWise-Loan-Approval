@@ -16,7 +16,7 @@ The manual system is **time-consuming, biased, and inconsistent**, leading to tw
 2.  **Financial Loss:** High-risk customers are sometimes approved, leading to defaults.
 
 ## 💡 The Solution
-As a **Machine Learning Engineer**, I designed **CreditWise**, an intelligent loan approval system that analyzes historical applicant data to predict whether a loan should be **Approved** or **Rejected** before final human verification.
+As a **Data Analyst**, I designed **CreditWise**, an intelligent loan approval system that analyzes historical applicant data to predict whether a loan should be **Approved** or **Rejected** before final human verification.
 
 The system aims to:
 * Automate the initial screening process.
